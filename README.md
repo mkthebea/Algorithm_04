@@ -31,3 +31,38 @@ MODEL 2
 
 3. Test Accuracy
 
+![model 2_3](https://user-images.githubusercontent.com/66164561/83487711-7a544d80-a4e6-11ea-8bae-dd426c49572b.PNG)
+
+4. Images and corresponding probability that predicted Right
+
+![model 2_4](https://user-images.githubusercontent.com/66164561/83487715-7cb6a780-a4e6-11ea-972d-27707d8ad3d4.PNG)
+
+5. Images and corresponding probability that predicted Wrong
+
+![model 2_5](https://user-images.githubusercontent.com/66164561/83487719-7e806b00-a4e6-11ea-93e8-271bcf66840f.PNG)
+
+MODEL 3
+
+1. Model
+
+![model 3_1](https://user-images.githubusercontent.com/66164561/83487724-80e2c500-a4e6-11ea-95ed-20586a4e0f6f.PNG)
+
+2. Training with Training loss
+
+![model 3_2](https://user-images.githubusercontent.com/66164561/83487749-8f30e100-a4e6-11ea-9681-003b0f058940.PNG)
+
+3. Test Accuracy
+
+![model 3_3](https://user-images.githubusercontent.com/66164561/83487758-935cfe80-a4e6-11ea-90b1-4a4e9aef6de2.PNG)
+
+4. Images and corresponding probability that predicted Right
+
+![model 3_4](https://user-images.githubusercontent.com/66164561/83487768-99eb7600-a4e6-11ea-80ce-8fa723f638b7.PNG)
+
+5. Images and corresponding probability that predicted Wrong
+
+![model 3_5](https://user-images.githubusercontent.com/66164561/83487775-9c4dd000-a4e6-11ea-8c9f-c57e6f63d9d1.PNG)
+
+
+
+
