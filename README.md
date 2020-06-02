@@ -1,5 +1,6 @@
 MODEL 1
 1. Model
+
 ![model 1_1](https://user-images.githubusercontent.com/66164561/83487221-99061480-a4e5-11ea-97f8-297197ee6831.PNG)
 
 2. Training with Training loss
@@ -15,4 +16,10 @@ MODEL 1
 ![model 1_4](https://user-images.githubusercontent.com/66164561/83487481-129e0280-a4e6-11ea-98df-aafa45e2311b.PNG)
 
 5. Images and corresponding probability that predicted Wrong
+
+![model 1_5](https://user-images.githubusercontent.com/66164561/83487539-2ba6b380-a4e6-11ea-8377-2f629ea88aa6.PNG)
+
+
+MODEL 2
+1. Model
 
