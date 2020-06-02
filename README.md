@@ -1,2 +1,5 @@
 MODEL 1
 1. Model
+![model 1_1](https://user-images.githubusercontent.com/66164561/83487221-99061480-a4e5-11ea-97f8-297197ee6831.PNG)
+
+2. Training with Training loss
