@@ -27,3 +27,7 @@ MODEL 2
 
 2. Training with Training loss
 
+![model 2_2](https://user-images.githubusercontent.com/66164561/83487654-5f81d900-a4e6-11ea-96af-bca7bd48847c.PNG)
+
+3. Test Accuracy
+
