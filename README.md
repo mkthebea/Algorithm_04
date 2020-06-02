@@ -12,3 +12,7 @@ MODEL 1
 
 4. Images and corresponding probability that predicted Right
 
+![model 1_4](https://user-images.githubusercontent.com/66164561/83487481-129e0280-a4e6-11ea-98df-aafa45e2311b.PNG)
+
+5. Images and corresponding probability that predicted Wrong
+
