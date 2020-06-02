@@ -23,3 +23,7 @@ MODEL 1
 MODEL 2
 1. Model
 
+![model 2_1](https://user-images.githubusercontent.com/66164561/83487608-4842eb80-a4e6-11ea-92e1-3cb2ae664ecf.PNG)
+
+2. Training with Training loss
+
